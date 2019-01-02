@@ -10,7 +10,7 @@ public class HibrnatesApplication
     public static void main(String[] args)
     {
         SpringApplication.run(HibrnatesApplication.class, args);
-
+        System.out.println("hii there");
     }
 
 }
