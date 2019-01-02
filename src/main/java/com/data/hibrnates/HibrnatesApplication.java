@@ -11,6 +11,7 @@ public class HibrnatesApplication
     {
         SpringApplication.run(HibrnatesApplication.class, args);
         System.out.println("hii there");
+        System.out.println("not availbale");
     }
 
 }
